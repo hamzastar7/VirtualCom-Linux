@@ -1,5 +1,6 @@
 # VirtualCom-Linux
-this script is helping to create a virtual COM port on linux
+this script is helping to create a virtual COM port on linux and allow you to share serial data throught TCP/IP
+
 
 
 you can run this script by typing:
