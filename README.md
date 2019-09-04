@@ -19,7 +19,8 @@ you can change the permisson with chmod to allow user application to access to i
 
 --! you should have insttaled the nmap package !--
 
-
+if you can't run it throught JAVA API serial Comm you should update your kernel to 4.6 or newest
+that worked for me
 
 
 
