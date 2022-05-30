@@ -3,6 +3,8 @@
 #you should have insttaled the nmap package
 #alll the commands are runing in background you can always change the directory of the virtual port
 
+
+###if you run this script twice in the same Port you will have an error so uncomant thies to kill the previouse script
 #killall nc 2>/dev/null
 #killall socat 2>/dev/null
 #killall ncat 2>/dev/null
